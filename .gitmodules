@@ -1,3 +1,6 @@
 [submodule "llms/chavinloGPT4"]
 	path = llms/chavinloGPT4
 	url = https://huggingface.co/chavinlo/gpt4-x-alpaca
+[submodule "llms/anon82314"]
+	path = llms/anon82314
+	url = https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g
